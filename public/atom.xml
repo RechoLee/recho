@@ -5,9 +5,9 @@
   
   <link href="/recho/atom.xml" rel="self"/>
   
-  <link href="http://recholee.github.io/"/>
+  <link href="http://recholee.gitee.io/"/>
   <updated>2018-02-10T09:59:32.341Z</updated>
-  <id>http://recholee.github.io/</id>
+  <id>http://recholee.gitee.io/</id>
   
   <author>
     <name>Recho Lee</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>GitHub的使用</title>
-    <link href="http://recholee.github.io/%E7%BC%96%E7%A8%8B/GitHub%E7%9A%84%E4%BD%BF%E7%94%A8/"/>
-    <id>http://recholee.github.io/编程/GitHub的使用/</id>
+    <link href="http://recholee.gitee.io/%E7%BC%96%E7%A8%8B/GitHub%E7%9A%84%E4%BD%BF%E7%94%A8/"/>
+    <id>http://recholee.gitee.io/编程/GitHub的使用/</id>
     <published>2018-02-10T08:57:33.000Z</published>
     <updated>2018-02-10T09:59:32.341Z</updated>
     
@@ -33,19 +33,19 @@
     
     </summary>
     
-      <category term="编程" scheme="http://recholee.github.io/categories/%E7%BC%96%E7%A8%8B/"/>
+      <category term="编程" scheme="http://recholee.gitee.io/categories/%E7%BC%96%E7%A8%8B/"/>
     
     
-      <category term="GitHub" scheme="http://recholee.github.io/tags/GitHub/"/>
+      <category term="GitHub" scheme="http://recholee.gitee.io/tags/GitHub/"/>
     
-      <category term="git" scheme="http://recholee.github.io/tags/git/"/>
+      <category term="git" scheme="http://recholee.gitee.io/tags/git/"/>
     
   </entry>
   
   <entry>
     <title>How to use git</title>
-    <link href="http://recholee.github.io/%E7%A8%8B%E5%BA%8F/How-to-use-git/"/>
-    <id>http://recholee.github.io/程序/How-to-use-git/</id>
+    <link href="http://recholee.gitee.io/%E7%A8%8B%E5%BA%8F/How-to-use-git/"/>
+    <id>http://recholee.gitee.io/程序/How-to-use-git/</id>
     <published>2018-02-10T08:35:56.000Z</published>
     <updated>2018-02-10T10:00:10.167Z</updated>
     
@@ -60,19 +60,19 @@
     
     </summary>
     
-      <category term="程序" scheme="http://recholee.github.io/categories/%E7%A8%8B%E5%BA%8F/"/>
+      <category term="程序" scheme="http://recholee.gitee.io/categories/%E7%A8%8B%E5%BA%8F/"/>
     
     
-      <category term="git" scheme="http://recholee.github.io/tags/git/"/>
+      <category term="git" scheme="http://recholee.gitee.io/tags/git/"/>
     
-      <category term="coding" scheme="http://recholee.github.io/tags/coding/"/>
+      <category term="coding" scheme="http://recholee.gitee.io/tags/coding/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://recholee.github.io/Testing/Coding/hello-world/"/>
-    <id>http://recholee.github.io/Testing/Coding/hello-world/</id>
+    <link href="http://recholee.gitee.io/Testing/Coding/hello-world/"/>
+    <id>http://recholee.gitee.io/Testing/Coding/hello-world/</id>
     <published>2018-02-10T07:36:43.000Z</published>
     <updated>2018-02-10T09:59:52.544Z</updated>
     
@@ -85,14 +85,14 @@
     
     </summary>
     
-      <category term="Testing" scheme="http://recholee.github.io/categories/Testing/"/>
+      <category term="Testing" scheme="http://recholee.gitee.io/categories/Testing/"/>
     
-      <category term="Coding" scheme="http://recholee.github.io/categories/Testing/Coding/"/>
+      <category term="Coding" scheme="http://recholee.gitee.io/categories/Testing/Coding/"/>
     
     
-      <category term="md" scheme="http://recholee.github.io/tags/md/"/>
+      <category term="md" scheme="http://recholee.gitee.io/tags/md/"/>
     
-      <category term="hexo" scheme="http://recholee.github.io/tags/hexo/"/>
+      <category term="hexo" scheme="http://recholee.gitee.io/tags/hexo/"/>
     
   </entry>
   
