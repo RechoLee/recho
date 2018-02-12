@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Recho&#39;s Blos</title>
+  
+  
+  <link href="/recho/atom.xml" rel="self"/>
+  
+  <link href="http://recholee.github.io/"/>
+  <updated>2018-02-10T09:59:32.341Z</updated>
+  <id>http://recholee.github.io/</id>
+  
+  <author>
+    <name>Recho Lee</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>GitHub的使用</title>
+    <link href="http://recholee.github.io/%E7%BC%96%E7%A8%8B/GitHub%E7%9A%84%E4%BD%BF%E7%94%A8/"/>
+    <id>http://recholee.github.io/编程/GitHub的使用/</id>
+    <published>2018-02-10T08:57:33.000Z</published>
+    <updated>2018-02-10T09:59:32.341Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;如何快速使用GitHub进行项目管理&quot;&gt;&lt;a href=&quot;#如何快速使用GitHub进行项目管理&quot; class=&quot;headerlink&quot; title=&quot;如何快速使用GitHub进行项目管理&quot;&gt;&lt;/a&gt;如何快速使用GitHub进行项目管理&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;
+      
+    
+    </summary>
+    
+      <category term="编程" scheme="http://recholee.github.io/categories/%E7%BC%96%E7%A8%8B/"/>
+    
+    
+      <category term="GitHub" scheme="http://recholee.github.io/tags/GitHub/"/>
+    
+      <category term="git" scheme="http://recholee.github.io/tags/git/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>How to use git</title>
+    <link href="http://recholee.github.io/%E7%A8%8B%E5%BA%8F/How-to-use-git/"/>
+    <id>http://recholee.github.io/程序/How-to-use-git/</id>
+    <published>2018-02-10T08:35:56.000Z</published>
+    <updated>2018-02-10T10:00:10.167Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;这是一篇关于git的文章&quot;&gt;&lt;a href=&quot;#这是一篇关于git的文章&quot; class=&quot;headerlink&quot; title=&quot;这是一篇关于git的文章&quot;&gt;&lt;/a&gt;这是一篇关于git的文章&lt;/h1&gt;&lt;p&gt;总的来说还是讲着三个问题：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;git
+      
+    
+    </summary>
+    
+      <category term="程序" scheme="http://recholee.github.io/categories/%E7%A8%8B%E5%BA%8F/"/>
+    
+    
+      <category term="git" scheme="http://recholee.github.io/tags/git/"/>
+    
+      <category term="coding" scheme="http://recholee.github.io/tags/coding/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://recholee.github.io/Testing/Coding/hello-world/"/>
+    <id>http://recholee.github.io/Testing/Coding/hello-world/</id>
+    <published>2018-02-10T07:36:43.000Z</published>
+    <updated>2018-02-10T09:59:52.544Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+      <category term="Testing" scheme="http://recholee.github.io/categories/Testing/"/>
+    
+      <category term="Coding" scheme="http://recholee.github.io/categories/Testing/Coding/"/>
+    
+    
+      <category term="md" scheme="http://recholee.github.io/tags/md/"/>
+    
+      <category term="hexo" scheme="http://recholee.github.io/tags/hexo/"/>
+    
+  </entry>
+  
+</feed>
