@@ -1,0 +1,18 @@
+//修改文章间分割线
+.posts-expand {
+  .post-eof {
+    display: block;
+    margin: $post-eof-margin-top auto $post-eof-margin-bottom; 
+    width: 39%; //分割线长度
+    height: 2px; // 分割线高度
+    background: $grey-light;
+    text-align: center;
+  }
+}
+
+
+.post:last-child {
+  .post-eof.post-eof.post-eof {
+    display: none;
+  }
+}
