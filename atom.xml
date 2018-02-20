@@ -6,7 +6,7 @@
   <link href="/recho/atom.xml" rel="self"/>
   
   <link href="http://recholee.gitee.io/"/>
-  <updated>2018-02-10T09:59:32.341Z</updated>
+  <updated>2018-02-20T05:29:18.106Z</updated>
   <id>http://recholee.gitee.io/</id>
   
   <author>
@@ -15,6 +15,24 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>关于hexo+next的使用</title>
+    <link href="http://recholee.gitee.io/uncategorized/%E5%85%B3%E4%BA%8Ehexo-next%E7%9A%84%E4%BD%BF%E7%94%A8/"/>
+    <id>http://recholee.gitee.io/uncategorized/关于hexo-next的使用/</id>
+    <published>2018-02-20T05:27:23.000Z</published>
+    <updated>2018-02-20T05:29:18.106Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+      <category term="hexo" scheme="http://recholee.gitee.io/tags/hexo/"/>
+    
+      <category term="next" scheme="http://recholee.gitee.io/tags/next/"/>
+    
+  </entry>
   
   <entry>
     <title>GitHub的使用</title>

@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[关于hexo+next的使用]]></title>
+    <url>%2Frecho%2Funcategorized%2F%E5%85%B3%E4%BA%8Ehexo-next%E7%9A%84%E4%BD%BF%E7%94%A8%2F</url>
+    <content type="text"></content>
+      <tags>
+        <tag>hexo</tag>
+        <tag>next</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[GitHub的使用]]></title>
     <url>%2Frecho%2F%E7%BC%96%E7%A8%8B%2FGitHub%E7%9A%84%E4%BD%BF%E7%94%A8%2F</url>
     <content type="text"><![CDATA[如何快速使用GitHub进行项目管理 GitHub官网 GitHub客户端下载 GitHub客户端的使用]]></content>
